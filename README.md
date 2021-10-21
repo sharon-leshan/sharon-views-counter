@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/418481793/small/year.png" height="20"> 59
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/418060431/year.md">
-				agency-site
-			</a>
-		</td>
-		<td>
-			2021/10/19 12:00 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/418060431/small/year.png" height="20"> 46
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2021/10/21 12:19 PM UTC</i></small>
+<small><i>Last updated on 2021/10/21 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
