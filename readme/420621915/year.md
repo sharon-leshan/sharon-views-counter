@@ -1,7 +1,7 @@
 ## [🔙 sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter)
 
-### :octocat: [sharon-leshan](https://github.com/sharon-leshan/sharon-leshan)
-![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/418481793/large/year.png)
+### :octocat: [short-video-frontend](https://github.com/sharon-leshan/short-video-frontend)
+![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420621915/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>41</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -153,18 +153,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/12/1 11:35 AM UTC</i></small>
+<small><i>Last updated on 2021/12/1 11:36 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/418481793/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/418481793/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/420621915/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420621915/week.md)
 ```readme
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/418481793/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/418481793/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/420621915/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420621915/week.md)
 ```
 ### Header
-# sharon-leshan [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/418481793/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/418481793/year.md)
+# short-video-frontend [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420621915/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420621915/year.md)
 ```readme
-# sharon-leshan [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/418481793/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/418481793/year.md)
+# short-video-frontend [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420621915/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420621915/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
