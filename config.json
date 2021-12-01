@@ -6,6 +6,11 @@
     "sharon-leshan",
     "recipes-homemade",
     "restaurant",
-    "agency-site"
+    "agency-site",
+    "messaging-app-ui",
+    "sharon-views-counter",
+    "dating-app",
+    "short-video-frontend",
+    "mern-social"
   ]
 }
