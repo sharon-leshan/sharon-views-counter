@@ -4,6 +4,8 @@
   "language": "en-US",
   "repository": [
     "sharon-leshan",
+    "recipes-homemade",
+    "restaurant",
     "agency-site"
   ]
 }
