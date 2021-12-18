@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:39 AM UTC
+			2021/12/16 12:39 AM UTC
 		</td>
 		<td>
 			25
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:00 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			10
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:00 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			10
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:39 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			7
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:40 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			8
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:40 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			2
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:00 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			7
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:40 AM UTC
+			2021/12/16 12:40 AM UTC
 		</td>
 		<td>
 			2
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/15 12:40 AM UTC
+			2021/12/16 12:41 AM UTC
 		</td>
 		<td>
 			2
@@ -165,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/17 6:14 PM UTC</i></small>
+<small><i>Last updated on 2021/12/18 12:44 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
