@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:40 AM UTC
+			2022/1/31 12:39 AM UTC
 		</td>
 		<td>
 			28
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:00 AM UTC
+			2022/1/31 12:39 AM UTC
 		</td>
 		<td>
 			16
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:40 AM UTC
+			2022/1/31 12:39 AM UTC
 		</td>
 		<td>
 			17
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:40 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			10
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:41 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			11
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:41 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			4
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:41 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			9
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:41 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			6
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/1/30 12:41 AM UTC
+			2022/1/31 12:40 AM UTC
 		</td>
 		<td>
 			2
@@ -165,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/1 6:15 PM UTC</i></small>
+<small><i>Last updated on 2022/2/2 12:43 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
