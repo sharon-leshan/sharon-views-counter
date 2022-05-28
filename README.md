@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:05 AM UTC
+			2022/5/26 1:09 AM UTC
 		</td>
 		<td>
 			45
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:05 AM UTC
+			2022/5/26 1:09 AM UTC
 		</td>
 		<td>
 			22
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:05 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			36
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:05 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			13
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:06 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			17
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:06 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			11
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:06 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			18
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:06 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			11
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/25 1:06 AM UTC
+			2022/5/26 1:10 AM UTC
 		</td>
 		<td>
 			2
@@ -165,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/27 6:17 PM UTC</i></small>
+<small><i>Last updated on 2022/5/28 1:04 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
