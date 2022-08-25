@@ -163,9 +163,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/423982159/small/year.png" height="20"> 5
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/528809250/year.md">
+				websockets-chat
+			</a>
+		</td>
+		<td>
+			2022/8/22 6:31 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/528809250/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/503383129/year.md">
+				javascript-ta
+			</a>
+		</td>
+		<td>
+			2022/8/22 6:31 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/503383129/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/8/25 6:17 PM UTC</i></small>
+<small><i>Last updated on 2022/8/25 6:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
