@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:22 AM UTC
+			2022/8/24 1:18 AM UTC
 		</td>
 		<td>
 			52
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:18 AM UTC
 		</td>
 		<td>
 			23
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:18 AM UTC
 		</td>
 		<td>
 			38
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:18 AM UTC
 		</td>
 		<td>
 			14
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:18 AM UTC
 		</td>
 		<td>
 			18
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:19 AM UTC
 		</td>
 		<td>
 			15
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:23 AM UTC
+			2022/8/24 1:19 AM UTC
 		</td>
 		<td>
 			23
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:24 AM UTC
+			2022/8/24 1:19 AM UTC
 		</td>
 		<td>
 			11
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/23 1:24 AM UTC
+			2022/8/24 1:19 AM UTC
 		</td>
 		<td>
 			2
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/22 6:31 PM UTC
+			2022/8/24 6:31 PM UTC
 		</td>
 		<td>
 			1
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/8/22 6:31 PM UTC
+			2022/8/24 6:31 PM UTC
 		</td>
 		<td>
 			0
@@ -197,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/8/25 6:32 PM UTC</i></small>
+<small><i>Last updated on 2022/8/26 1:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
