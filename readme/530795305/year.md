@@ -1,7 +1,7 @@
 ## [🔙 sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter)
 
-### :octocat: [websockets-chat](https://github.com/sharon-leshan/websockets-chat)
-![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/528809250/large/year.png)
+### :octocat: [alx-zero_day](https://github.com/sharon-leshan/alx-zero_day)
+![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/530795305/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -37,7 +37,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/9/6 7:27 PM UTC</i></small>
+<small><i>Last updated on 2022/9/6 7:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/528809250/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/528809250/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/530795305/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/530795305/week.md)
 ```readme
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/528809250/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/528809250/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/530795305/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/530795305/week.md)
 ```
 ### Header
-# websockets-chat [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/528809250/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/528809250/year.md)
+# alx-zero_day [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/530795305/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/530795305/year.md)
 ```readme
-# websockets-chat [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/528809250/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/528809250/year.md)
+# alx-zero_day [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/530795305/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/530795305/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
