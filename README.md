@@ -227,9 +227,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/530795305/small/year.png" height="20"> 1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/559000544/year.md">
+				weather-app
+			</a>
+		</td>
+		<td>
+			2022/10/28 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/559000544/small/year.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/559917610/year.md">
+				zuri-linktree-frontend
+			</a>
+		</td>
+		<td>
+			2022/10/28 6:23 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/559917610/small/year.png" height="20"> 7
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/31 12:33 PM UTC</i></small>
+<small><i>Last updated on 2022/10/31 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

@@ -1,7 +1,7 @@
 ## [🔙 sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter)
 
-### :octocat: [agency-site](https://github.com/sharon-leshan/agency-site)
-![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420011260/large/year.png)
+### :octocat: [zuri-linktree-frontend](https://github.com/sharon-leshan/zuri-linktree-frontend)
+![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/559917610/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>7</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>83</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2022/10/31 6:21 PM UTC</i></small>
+<small><i>Last updated on 2022/10/31 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/420011260/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420011260/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/559917610/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/559917610/week.md)
 ```readme
-[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/420011260/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420011260/week.md)
+[![Image of sharon-views-counter](https://github.com/sharon-leshan/sharon-views-counter/blob/master/svg/559917610/badge.svg)](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/559917610/week.md)
 ```
 ### Header
-# agency-site [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420011260/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420011260/year.md)
+# zuri-linktree-frontend [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/559917610/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/559917610/year.md)
 ```readme
-# agency-site [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/420011260/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/420011260/year.md)
+# zuri-linktree-frontend [<img alt="Image of sharon-views-counter" src="https://github.com/sharon-leshan/sharon-views-counter/blob/master/graph/559917610/small/year.png" height="20">](https://github.com/sharon-leshan/sharon-views-counter/blob/master/readme/559917610/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
