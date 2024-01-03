@@ -69,6 +69,166 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/420011260/year.md">
+				agency-site
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:55 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/420011260/small/year.png" height="20"> 34
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/420691729/year.md">
+				messaging-app-ui
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			26
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/420691729/small/year.png" height="20"> 105
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/418586717/year.md">
+				sharon-views-counter
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/418586717/small/year.png" height="20"> 71
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/420421627/year.md">
+				dating-app
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			42
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/420421627/small/year.png" height="20"> 184
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/420621915/year.md">
+				short-video-frontend
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			18
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/420621915/small/year.png" height="20"> 43
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/423982159/year.md">
+				mern-social
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/423982159/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/528809250/year.md">
+				websockets-chat
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/528809250/small/year.png" height="20"> 35
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/503383129/year.md">
+				javascript-ta
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/503383129/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/531653804/year.md">
+				alx-system_engineering-devops
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/531653804/small/year.png" height="20"> 37
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/530795305/year.md">
+				alx-zero_day
+			</a>
+		</td>
+		<td>
+			2024/1/1 12:56 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/sharon-leshan/sharon-views-counter/raw/master/graph/530795305/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/sharon-leshan/sharon-views-counter/tree/master/readme/559000544/year.md">
 				weather-app
 			</a>
@@ -101,7 +261,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/3 12:51 AM UTC</i></small>
+<small><i>Last updated on 2024/1/3 6:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
